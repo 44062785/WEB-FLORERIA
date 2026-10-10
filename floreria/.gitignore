@@ -1,6 +1,0 @@
-/.env
-/var/
-/work/
-/public/uploads/
-*.log
-__pycache__/

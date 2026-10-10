@@ -1,1 +1,7 @@
-/floreria-php-mysql.zip
+/.env
+/var/
+/work/
+/public/uploads/*
+!/public/uploads/.htaccess
+*.log
+__pycache__/
