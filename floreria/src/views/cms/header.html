@@ -1,0 +1,10 @@
+<header class="site-header" id="site-header">
+<div class="portal-access"><a href="/admin.php"><svg aria-hidden="true" class="icon"><use href="/assets/icons.svg#user"></use></svg>Acceso administrador <span aria-hidden="true">↗</span></a></div>
+<div class="header-main">
+<button aria-expanded="false" aria-label="Abrir menú" class="icon-button mobile-menu" id="menu-button"><svg aria-hidden="true" class="icon"><use href="/assets/icons.svg#menu"></use></svg></button>
+<a aria-label="Magia, inicio" class="logo" href="/"><img alt="Magia" class="logo-dark" src="{{value:f1}}"/><img alt="" aria-hidden="true" class="logo-white" src="{{value:f2}}"/></a>
+<nav aria-label="Navegación principal" class="main-nav">{{rows:navigation}}</nav>
+<div class="header-actions"><button aria-label="Buscar productos" class="icon-button" id="search-toggle"><svg aria-hidden="true" class="icon"><use href="/assets/icons.svg#search"></use></svg></button><button aria-label="Ver favoritos" class="icon-button" id="favorites-toggle"><svg aria-hidden="true" class="icon"><use href="/assets/icons.svg#heart"></use></svg><span class="counter" hidden="" id="favorite-count">{{value:f3}}</span></button><button aria-label="Abrir carrito" class="icon-button" id="cart-toggle"><svg aria-hidden="true" class="icon"><use href="/assets/icons.svg#bag"></use></svg><span class="counter" hidden="" id="cart-count">{{value:f4}}</span></button></div>
+</div>
+<div class="search-strip" hidden="" id="search-strip"><label class="search-label"><svg aria-hidden="true" class="icon"><use href="/assets/icons.svg#search"></use></svg><input aria-label="Buscar en el catálogo" id="header-search" placeholder="{{value:f6}}" type="search"/><button aria-label="Cerrar búsqueda" class="icon-button" id="search-close"><svg aria-hidden="true" class="icon"><use href="/assets/icons.svg#close"></use></svg></button></label><p>{{value:f5}}</p></div>
+</header>

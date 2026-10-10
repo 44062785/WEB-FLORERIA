@@ -1,0 +1,53 @@
+{
+  "hero": [
+    {
+      "video": "/reference/fa9e43e948b54c59ad18f20d25efb7fc.HD-720p-4.5Mbps-96046815.mp4",
+      "poster": "/reference/fa9e43e948b54c59ad18f20d25efb7fc.thumbnail.0000000000.webp"
+    },
+    {
+      "video": "/reference/5b9e8e023d08496ea375d6677749c6b1.HD-720p-4.5Mbps-86194880.mp4",
+      "poster": "/reference/5b9e8e023d08496ea375d6677749c6b1.thumbnail.0000000000.webp"
+    }
+  ],
+  "logos": {
+    "dark": "/reference/GESTO_A_GESTO_Mesa_de_trabajo_1.webp",
+    "white": "/reference/GESTO_A_GESTO-02.webp"
+  },
+  "clips": [
+    {
+      "video": "/reference/b14f4487ab4e4e34b489454f5d1b2f0f.HD-1080p-7.2Mbps-89030045.mp4",
+      "poster": "/reference/b14f4487ab4e4e34b489454f5d1b2f0f.thumbnail.0000000000.webp",
+      "slug": "caja-magia-slim-10-tulipanes",
+      "name": "Caja Magia Slim 10 Tulipanes",
+      "image": "/reference/Caja-10-Tulipanes-Mom.webp"
+    },
+    {
+      "video": "/reference/8ae8a296b6b34d5389db39d9fcd44ae7.HD-1080p-7.2Mbps-93531947.mp4",
+      "poster": "/reference/8ae8a296b6b34d5389db39d9fcd44ae7.thumbnail.0000000000.webp",
+      "slug": "ramo-spring-pink-1",
+      "name": "Ramo Spring Pink",
+      "image": "/reference/flores-a-domicilio-lima-magiape-ramo-spring-pink2-1.webp"
+    },
+    {
+      "video": "/reference/522d4bbf2d4d4b7da047fee0dca68663.HD-1080p-7.2Mbps-93531946.mp4",
+      "poster": "/reference/522d4bbf2d4d4b7da047fee0dca68663.thumbnail.0000000000.webp",
+      "slug": "ramo-sunflower",
+      "name": "Ramo Sunflower",
+      "image": "/reference/flores-a-domicilio-lima-magiape-verde-1.webp"
+    },
+    {
+      "video": "/reference/a0ced438ad854a31962f9fa6556c8eb1.HD-1080p-7.2Mbps-94952026.mp4",
+      "poster": "/reference/a0ced438ad854a31962f9fa6556c8eb1.thumbnail.0000000000.webp",
+      "slug": "caja-magia-pe-12-rosas",
+      "name": "Caja Magia.pe 12 rosas amarillas",
+      "image": "/reference/flores-a-domicilio-lima-magiape-caja-magia_92d39dfa-e14b-41e4-9a91-583c3aa2a2ef-1.webp"
+    },
+    {
+      "video": "/reference/4374162fdb92458eaafb541ccac2605c.HD-1080p-7.2Mbps-71462832.mp4",
+      "poster": "/reference/4374162fdb92458eaafb541ccac2605c.thumbnail.0000000000.webp",
+      "slug": "osito-matt®-by-magia-pe®",
+      "name": "Oso Matt by Magia.pe®",
+      "image": "/reference/MAGIA-PE-PELUCHE_0b67f7b1-be20-449f-9fd6-046483cfae57-1.webp"
+    }
+  ]
+}

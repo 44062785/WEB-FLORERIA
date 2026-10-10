@@ -1,0 +1,14 @@
+/* Shared purple palette for storefront and administration. */
+:root{--rose:#9256bb;--rose-dark:#542875;--rose-soft:#f5edfc}
+body.storefront{background:#fdfaff}
+.portal-access{display:flex;justify-content:flex-end;background:#ebddf7;color:#542875;padding:7px 30px;font:700 12px/1.4 'DM Sans',sans-serif;border-bottom:1px solid #ddc5ed}
+.portal-access a{display:inline-flex;align-items:center;gap:8px;min-height:24px;padding:0 8px;border-radius:5px}
+.portal-access a:hover{background:#d2b3ef}.portal-access .icon{width:16px;height:16px}
+.logo-dark,.footer-logo img,.login-form-wrap .admin-mark img{filter:brightness(0) saturate(100%) invert(23%) sepia(27%) saturate(1660%) hue-rotate(235deg) brightness(92%) contrast(93%)}
+.film-section{background-color:#8047a4;background-blend-mode:soft-light}
+.footer{background:#efe3f8}.brand-marquee{background:#d2b3ef;color:#542875}
+.admin-sidebar{background:#69398b}.admin-sidebar .sidebar-caption{color:#e5cef6}
+.login-art{background:#ebddf7}.login-screen{background:#faf6fd}
+input::placeholder,textarea::placeholder{color:#897197}
+@media(max-width:900px){.portal-access{padding:4px 16px;font-size:11px}.mobile-nav-open .main-nav{top:118px;max-height:calc(100dvh - 118px)}}
+.magia-beneficios img{filter:sepia(.3) saturate(1.4) hue-rotate(235deg)}
